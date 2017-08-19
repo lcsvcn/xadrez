@@ -1,5 +1,10 @@
-0
-0
-2
-   |  WHITE  |      h4       |
+16
+16
+1
+   |  WHITE  |      g4       |
+   |  BLACK  |      g3       |
+   |  WHITE  |      e4       |
+   |  BLACK  |      Cd2      |
+   |  WHITE  |      e3       |
+   |  BLACK  |      b3       |
 EOF

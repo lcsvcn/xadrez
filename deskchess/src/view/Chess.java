@@ -1553,7 +1553,7 @@ public final class Chess {
         lChess.printAll();
     }
     
-    public void remp
+    
     /* Retorna o Singleton desta classe */
     public static Chess getChess() {
 
